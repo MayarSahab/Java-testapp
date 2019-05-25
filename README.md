@@ -26,7 +26,7 @@ Steps are the following:
       -->  Will create a cont
       
       
-      ainer called devopsarea-sample-java-app and will forward the container internal port 8080 to locathost 8080 in the hosted machine 
+      ainer called devopsarea-sample-java-app and will         forward the container internal port 8080 to locathost 8080 in the hosted machine 
 5. Open [http://localhost:8080/devopsarea-1.0/](http://localhost:8080/devopsarea-1.0/) in your browser and see the result.
 
 
