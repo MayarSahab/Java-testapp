@@ -42,4 +42,5 @@
      copy:
        src: ./target/devopsarea-1.0.war
        dest: /var/lib/tomcat8/webapps/
-       mode: 0777                                                                                                                                                                              
+       mode: 0777     
+                                                                                                                                                                                
